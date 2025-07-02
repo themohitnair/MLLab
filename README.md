@@ -1,2 +1,2 @@
 # MLLab
-A collection of Data Structures Laboratory Programs (ISL65, RITB ISE 2022) 
+A collection of Machine Learning Laboratory Programs (ISL65, RITB ISE 2022) 
